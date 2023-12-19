@@ -1,93 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T06:17:39.687Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="fmhMBhu_vbvRzdMrnhmj" version="22.1.5" type="github">
-  <diagram name="Page-1" id="DCHUQV6rFOjUHuJXN2I2">
-    <mxGraphModel dx="548" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-12-19T05:57:13.827Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.11" etag="NPMpiyTEoydSVlPu1gee" type="github">
+  <diagram name="Page-1" id="dlWVztk4bCuJRGccYDZY">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="m7vscuqfSZgoXUheYu94-2" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="130" y="40" width="330" height="570" as="geometry" />
-        </mxCell>
-        <mxCell id="m7vscuqfSZgoXUheYu94-3" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="120" width="30" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="m7vscuqfSZgoXUheYu94-5" value="Employee" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="110" width="30" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="m7vscuqfSZgoXUheYu94-6" value="Chef/cook" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="500" width="30" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="m7vscuqfSZgoXUheYu94-10" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="60" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="m7vscuqfSZgoXUheYu94-14" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="130" width="200" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="m7vscuqfSZgoXUheYu94-16" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="210" width="200" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="m7vscuqfSZgoXUheYu94-18" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="290" width="200" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="m7vscuqfSZgoXUheYu94-19" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="205" y="370" width="195" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="m7vscuqfSZgoXUheYu94-20" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="205" y="450" width="200" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="m7vscuqfSZgoXUheYu94-21" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="207.5" y="530" width="195" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="m7vscuqfSZgoXUheYu94-24" value="Registering customer&#39;s information" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="232.5" y="75" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="m7vscuqfSZgoXUheYu94-26" value="Placing Order" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="245" y="150" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="m7vscuqfSZgoXUheYu94-27" value="Validating order/ ingredients" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="231.25" y="225" width="137.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="m7vscuqfSZgoXUheYu94-28" value="Forward order information" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="310" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="m7vscuqfSZgoXUheYu94-29" value="Update ingredients" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="242.5" y="390" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="m7vscuqfSZgoXUheYu94-30" value="Update status" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="235" y="470" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="m7vscuqfSZgoXUheYu94-31" value="Update delivery status" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="552.5" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="m7vscuqfSZgoXUheYu94-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m7vscuqfSZgoXUheYu94-3" target="m7vscuqfSZgoXUheYu94-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="140" as="sourcePoint" />
-            <mxPoint x="160" y="90" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="120" y="130" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="m7vscuqfSZgoXUheYu94-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="m7vscuqfSZgoXUheYu94-3" target="m7vscuqfSZgoXUheYu94-14">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="140" as="sourcePoint" />
-            <mxPoint x="160" y="90" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="m7vscuqfSZgoXUheYu94-38" value="" style="endArrow=none;html=1;rounded=0;entryX=0.035;entryY=0.683;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="m7vscuqfSZgoXUheYu94-41" target="m7vscuqfSZgoXUheYu94-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="516.6666666666667" as="sourcePoint" />
-            <mxPoint x="160" y="470" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="m7vscuqfSZgoXUheYu94-41" value="Delivery Person" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="490" width="30" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="m7vscuqfSZgoXUheYu94-42" value="" style="endArrow=none;html=1;rounded=0;entryX=0.1;entryY=0.843;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="m7vscuqfSZgoXUheYu94-41" target="m7vscuqfSZgoXUheYu94-14">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60" y="510" as="sourcePoint" />
-            <mxPoint x="110" y="460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
